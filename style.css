@@ -1,0 +1,32 @@
+
+p.para{
+    background-image: url(sky.jpg);
+}
+
+#para1{
+    background-color: beige;
+}
+
+h3 {
+    border-width: thick;
+    border-color: rgb(199, 23, 23);
+    border-style: outset;
+    text-align: center;
+    border-top-left-radius: 10px;
+}
+
+.one{
+     
+     background-color: aquamarine;
+     padding:10px;
+}
+
+.drink{
+    background-color: yellow;
+}
+
+h1:hover{
+    font-size: 30px;
+    color:tomato;
+    background-color: rgb(224, 224, 80);
+}
